@@ -4,7 +4,7 @@ import java.sql.*;
 import java.util.ArrayList;
 
 public class Student_Dao {
-	private static final String url = "jdbc:mysql://localhost:3306/Ashvini";
+	private static final String url = "jdbc:mysql://localhost:3306/Student_mgmt";
 	private static final String user = "root";
 	private static final String password = "root";
 
